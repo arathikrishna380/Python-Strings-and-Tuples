@@ -4,7 +4,7 @@ This repository contains the completed Jupyter Notebook for Python Coding, focus
 
 # Contents & Objectives
 
-## 1. String Concatenation
+### 1. String Concatenation
 
  * Accepting user inputs using input().
 
