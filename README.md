@@ -30,9 +30,8 @@ Repeating tuple elements using multiplication.
 Accessing elements and slicing sub-tuples.
 Requirements & Tools Used
 
-# Language: Python 3.x
-
-# Environment: Jupyter Notebook / Anaconda Distribution
+Language: Python 3.x
+Environment: Jupyter Notebook / Anaconda Distribution
 
 # How to Run
 
